@@ -41,7 +41,7 @@ Mobile
 
 ### O que eu aprendi
 
-Neste projeto eu usei flex, grid e fiz duas @media(min-width) para almentar a responsividade e melhorar a visualização em diferentes tamanhos de tela.
+Neste projeto eu usei flex, grid e fiz duas @media(min-width) para aumentar a responsividade e melhorar a visualização em diferentes tamanhos de tela.
 
 ### Desenvolvimento contínuo
 
